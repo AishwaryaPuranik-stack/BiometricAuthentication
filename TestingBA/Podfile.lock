@@ -1,0 +1,16 @@
+PODS:
+  - BiometricAuthentication (1.0.0)
+
+DEPENDENCIES:
+  - BiometricAuthentication (from `../BiometricAuthentication/`)
+
+EXTERNAL SOURCES:
+  BiometricAuthentication:
+    :path: "../BiometricAuthentication/"
+
+SPEC CHECKSUMS:
+  BiometricAuthentication: c01ca9e64277f47649da367571a1e63246b8e72a
+
+PODFILE CHECKSUM: 59b1ae7b13345498997a0cb44f7012740bcff961
+
+COCOAPODS: 1.8.4
